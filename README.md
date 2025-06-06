@@ -6,3 +6,7 @@ Repositorio clase 3 - Python para Machine Learning
 
 # Lenguaje de programacion:
 ![](http://python.org/static/community_logos/python-logo.png)
+
+## Sesion 3:
+  # GitOps: Git + Terafore + Kubernetes
+  # Git + Github.com
